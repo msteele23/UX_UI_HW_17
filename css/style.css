@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+}
+header {
+  background: rgba(67, 40, 40);
+  padding: 5pxx;
+  display: flex;
+  padding-left: 15px;
+  padding-right: 15px; 
+}
+
+header ul {
+  float: right;
+  color: white;
+}
+header li {
+  display: inline-block;
+  padding: 0px 5px;
+  font-size: 18px;
+  font-family: oswald;
+}
+header p {
+  display: inline-block;
+}
+
+.heroImg  {
+   background-color: #432828;
+}
+.content {
+  max-width: 5000px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  font-family: oswald;
+  font-size: 48px;
+  background-position: bottom;
+}
+.content{
+  color: white;
+  background-color: #432828;
+  background-image: url(../images/Martini.png);
+  padding: 100px 10px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+button {
+  padding: 15px;
+  background-color: #271010;
+  color: white;
+  font-size: 15px;
+  border-radius: 4px;
+  font-family: oswald;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+  background-color: #271010;
+  padding: 5px;
+  color: white;
+  font-family: oswald;
+  font-size: 16px
+}
+footer ul {
+  list-style: none;
+  padding-left: 5px;
+}
+footer li {
+  display: inline-block;
+  padding: 0px 7px;
+}
